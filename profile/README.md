@@ -2,6 +2,6 @@
 
 
 - [M3s, run Kubernetes under m3cluster](https://github.com/m3scluster/m3s)
-- [Compose, the container orchestrator](https://github.com/m3scluster/compose)
+- [Compose, a container orchestrator](https://github.com/m3scluster/compose)
 
 
