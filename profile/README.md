@@ -1,4 +1,4 @@
-## m3scluster - a continued development based on Apache Mesos
+## m3scluster - continued development for Apache Mesos
 
 - [Clusterd, a continued development based on Apache Mesos](https://github.com/m3scluster/clusterd)
 - [M3s, run Kubernetes under Apache Mesos/ClusterD](https://github.com/m3scluster/m3s)
