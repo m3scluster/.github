@@ -6,5 +6,6 @@
 - [Traefik-Mesos, Unofficial Traefik Provider for Apache Mesos/ClusterD](https://github.com/m3scluster/traefik-mesos)
 - [Mesos-DNS, DNS-based service discovery for Apache Mesos/ClusterD](https://github.com/m3scluster/mesos-dns)
 - [Apache Airflow provider for Apache Mesos/ClusterD](https://github.com/m3scluster/airflow-provider-mesos)
+- [Mesos-CLI, commandline interface for Apache Mesos/ClusterD](https://github.com/m3scluster/mesos-cli)
 
 
