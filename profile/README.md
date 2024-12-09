@@ -8,5 +8,5 @@
 - [Apache Airflow provider for Apache Mesos/ClusterD](https://github.com/m3scluster/airflow-provider-mesos)
 - [Mesos-CLI, commandline interface for Apache Mesos/ClusterD](https://github.com/m3scluster/mesos-cli)
 
-  - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
-  - [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=H553XE4QJ9GJ8)
+- [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
+- [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=H553XE4QJ9GJ8)
